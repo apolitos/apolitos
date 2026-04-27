@@ -2,7 +2,7 @@
 
 **`Backend Developer & CLI Systems Engineer`**
 
-Me chamo **Apolo**, tenho 13anos e sou natural da Paraíba. Atualmente, sou o desenvolvedor principal do **VoidSeek**, um agente de terminal avançado projetado para integrar inteligência artificial, análise de hardware em tempo real e automação de sistemas diretamente no Windows. Meu foco está em criar ferramentas de alta performance que rodam em CLI, priorizando a eficiência e o controle total do sistema através do terminal.
+Me chamo **Apolo**, tenho 13 anos e sou natural da Paraíba. Atualmente, sou o desenvolvedor principal do **VoidSeek**, um agente de terminal avançado projetado para integrar inteligência artificial, análise de hardware em tempo real e automação de sistemas diretamente no Windows. Meu foco está em criar ferramentas de alta performance que rodam em CLI, priorizando a eficiência e o controle total do sistema através do terminal.
 
 <p align="left">
     <a href="https://github.com/apolitos?tab=repositories&sort=stargazers">
