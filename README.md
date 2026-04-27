@@ -19,6 +19,13 @@ Me chamo **Apolo**, tenho 14 anos e sou natural da Paraíba. Atualmente, sou o d
             src="https://custom-icon-badges.demolab.com/github/followers/apolitos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://discord.com/users/apolox_8">
+        <img 
+            alt="Discord" 
+            title="Meu Discord" 
+            src="https://img.shields.io/badge/Discord-apolox__8-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2"
+        />
+    </a>
 </p>
 
 ---
